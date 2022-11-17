@@ -1,7 +1,7 @@
-README.md
+
 Penjelasan
 Flowchart
-img 0
+[img 0](https://github.com/Lans210504/praktikum5/commit/3560e02d22a62e0a0e9d93ed17b86d76b125e8d7)
 
 Berikut adalah tampilan program menggunakan bahasa Python img 1
 
